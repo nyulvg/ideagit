@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("game分支");
         System.out.println("heihei");
         System.out.println("hahaha");
+        System.out.println("在线更新");
     }
 }
