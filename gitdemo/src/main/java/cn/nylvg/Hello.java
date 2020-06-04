@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("更新2");
         System.out.println("更新3");
         System.out.println("game分支");
+        System.out.println("hahaha");
     }
 }
